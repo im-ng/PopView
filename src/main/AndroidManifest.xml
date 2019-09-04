@@ -1,0 +1,10 @@
+<!--
+  ~
+  ~ Created by Ng on 24/7/19 1:23 PM
+  ~ Copyright (c) 2019 . All rights reserved.
+  ~ Last modified 24/7/19 1:23 PM
+  ~
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ng28.popview" />
